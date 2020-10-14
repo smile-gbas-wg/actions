@@ -28,9 +28,7 @@ twitter_username: SMILEesacas
 github_username:  Jennifer-Carter
 
 # Build settings
-theme: jekyll-theme-slate
 plugins:
-  - github-pages
   - jekyll-feed
 
 # Exclude from processing.
