@@ -1,7 +1,6 @@
 # Build settings
 plugins:
   - jekyll-feed
-  - jekyll-archives # Sorry, not GitHub pages friendly!
   - jekyll-sitemap
   - jekyll-paginate
 
