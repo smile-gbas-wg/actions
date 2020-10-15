@@ -3,7 +3,7 @@ plugins:
   - jekyll-feed
   - jekyll-archives # Sorry, not GitHub pages friendly!
   - jekyll-sitemap
-  - jekyll-paginate-v2
+  - jekyll-paginate
 
 # Default 4000 port conflicts in my local machine
 port: 4444
@@ -35,12 +35,8 @@ inter_post_navigation: false
 highlightjs_theme: "monokai-sublime"
 
 # Pagination Settings
-# https://github.com/sverrirs/jekyll-paginate-v2/blob/master/README-GENERATOR.md#site-configuration
-pagination:
-  enabled: true
-  per_page: 5
-  permalink: "/page/:num/"
-  sort_reverse: true
+paginate: 0
+paginate_path: "/project/page:num"
 
 # Archive settings (see https://github.com/jekyll/jekyll-archives/)
 jekyll-archives:
