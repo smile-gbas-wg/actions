@@ -10,7 +10,7 @@ port: 4444
 
 show_home_content: false # set to true to show index.markdown content on the homepage
 show_excerpts: true # set to true to show excerpts on the homepage
-show_post_cotegories: false # set to true to show categorios in posts
+show_post_categories: false # set to true to show categorios in posts
 exclude:
   - "/vendor/"
 
