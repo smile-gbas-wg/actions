@@ -8,3 +8,5 @@ _site
 # Bundler
 .bundle/
 vendor/
+*.swp
+~*
