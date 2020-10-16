@@ -1,16 +1,15 @@
 # Build settings
 plugins:
   - jekyll-feed
-  - jekyll-archives # Sorry, not GitHub pages friendly!
   - jekyll-sitemap
-  - jekyll-paginate-v2
+  - jekyll-paginate
 
 # Default 4000 port conflicts in my local machine
 port: 4444
 
 show_home_content: false # set to true to show index.markdown content on the homepage
 show_excerpts: true # set to true to show excerpts on the homepage
-show_post_cotegories: false # set to true to show categorios in posts
+show_post_categories: false # set to true to show categorios in posts
 exclude:
   - "/vendor/"
 
@@ -35,22 +34,8 @@ inter_post_navigation: false
 highlightjs_theme: "monokai-sublime"
 
 # Pagination Settings
-# https://github.com/sverrirs/jekyll-paginate-v2/blob/master/README-GENERATOR.md#site-configuration
-pagination:
-  enabled: true
-  per_page: 5
-  permalink: "/page/:num/"
-  sort_reverse: true
-
-# Archive settings (see https://github.com/jekyll/jekyll-archives/)
-jekyll-archives:
-  enabled:
-    - categories
-    - tags
-  layout: 'archive'
-  permalinks:
-    category: '/category/:name/'
-    tag: '/tag/:name/'
+paginate: 10
+paginate_path: "/project/page:num"
 
 # Disqus comments
 # disqus_shortname: bencentra
