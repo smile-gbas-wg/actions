@@ -2,6 +2,7 @@
 #layout: post
 title:  "Update from the SMILE SWT 16"
 date:   2020-10-30 16:13:00
+author: SMILE GBAS WG
 categories: news
 layout: post
 ---
