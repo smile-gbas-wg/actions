@@ -115,7 +115,7 @@ are expected to come from a forthcoming production batch.
  - Consortium: we heard of a new, improved space weather index,
    similar to Kp, but with a finer time resolution at 30, 60, and 90
    minute resolution. This is based on magnetometer data from the
-   IMAGE chain in the Scandinavian sector. We heard from work tracking
+   original Kp stations. We heard from work tracking
    the evolution of a substorm in the aurora data, showing that the
    changes in the auroral oval last longer than expected. We heard
    about Swarm-Cluster combined observations of FACs and in situ
