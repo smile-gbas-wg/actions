@@ -14,5 +14,6 @@ The outline agenda (working document) is found below:
 1. Welcome (JAC)
 2. Summary from the Data Format Working Group and implications for GBAS (AW)
 3. The SMILE Data Fusion Facility testing round 1 (JAC)
-4. Outline actions for 2021 (JAC, all)
-5. AOB
+4. National Astronomy Meeting SMILE session (MTW)
+5. Outline actions for 2021 (JAC, all)
+6. AOB
