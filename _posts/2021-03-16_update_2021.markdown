@@ -1,0 +1,71 @@
+---
+#layout: post
+title:  "GBAS WG update March 2021"
+date:   2020-03-16 08:10:00
+author: SMILE GBAS WG
+categories: news
+layout: post
+---
+
+Minutes from the meeting held in January
+
+Minutes: SMILE Ground-based and Additional Science Working Group
+
+Date: 28th January 2021, via WebEx
+
+In attendance: J. A. Carter (chair, JAC),  M. Dunlop (MD),  R. C. Fear, T. Forey, C. Forsyth (CF),  M. Freeman, J. Gjerloev (JG), S.-Y. Hsieh, J. Matzka, S. E. Milan, J. Manuel, K. Oksavik, M.-T. Walach (MTW), A. Walsh (AW), B. Walsh (BW), Q.-H. Zhang
+
+Apologies: I. McCrae
+
+1.	Welcome and remit of GBAS WG, JAC
+a.	Currently we have: 
+i.	“Coordinate and encourage use of  SMILE within the STP community”
+ii.	“Coordinate joint observation campaigns”
+iii.	“Produce interfaces to combine SMILE and other data”
+b.	BW suggested adding ‘international’ before STP, and CF suggested that point (i) falls within the whole of the SWT, and that GBAS should concentrate on GBAS activities
+
+2.	Update from the Data Format Working Group, AW
+a.	Discussed metadata definition activities in DF 
+b.	Wants point-of-contact within GBAS WG (JC volunteered to be PoC)
+c.	Needs input on what metadata will help combine SMILE observations with GBAS data
+d.	Discussion of data formats, including CDF vs. netCDF
+e.	Brief discussion on appropriate coordinate system for geo-referencing ionospheric observations (e.g. for SMILE UVI). This could be AACGM or Geographic? Geographic has advantage that it is not model-dependent. 
+f.	JM commented that UVI data will be released as soon as possible after initial data processing and the Quick Look products may be of use, and that UVI likely to be the fastest SMILE data set to be released
+
+3.	 SMILE data-fusion facility (DFF), JAC
+a.	Noted that this meeting was the official launch of the DFF (beta). The DFF is being designed by JC and T. Forey of Teri Apps. The facility can be found at: https://www403.lamp.le.ac.uk/
+b.	DFF currently designed to facilitate visualisation of SuperDARN and SMILE SXI magnetopause location. SuperMAG data will be incorporated over the next year. JG suggested adding Robin Barnes as the SuperMAG contact for the group. 
+c.	DFF open for a one-month testing activity, requested volunteers and feedback by end Feb via a feedback to be sent around the group after the meeting. 
+d.	Requested feedback on how to present the most useful combined data product of SuperDARN data with magnetopause location determined from SMILE SXI
+
+4.	NERC Highlight Topic on EISCAT_3D grant call, MD
+a.	SMILE UVI and in situ data have potential to contribute to E3D science
+b.	Soon, STP spacecraft will include SMILE, Swarm, CSES, Grace
+c.	Anticipate SMILE data availability from late 2024 (current SMILE launch date) after short commissioning period (UVI data should be available quickly (early 2025), SXI data with some delay)
+d.	E3D first light anticipated in spring 2023
+e.	JG advertised the EZIE mission which would use Zeeman-splitting techniques to remotely-sense magnetic field and neutral winds at high resolution (anticipated launch late 2024)
+
+5.	RAS NAM SMILE session, MTW
+a.	The Royal Astronomical Society National Astronomy Meeting is the largest UK STP-related meeting
+b.	A special session is being co-convened by MTW, JC, plus Michaela Mooney from MSSL: “SMILE and supporting science: magnetosphere-ionosphere coupling”
+c.	Session is especially focussed on joint observations by multiple missions / instruments
+d.	Invited all to consider submitting abstracts to session
+e.	NAM is likely to be held virtually and abstract submission will be advertised via the GBAS WG mailing list
+
+6.	Date of next meeting, all
+a.	Provisionally set for 8th April 2021. Note, this will be the week prior to the next SMILE SWT starting 13th April 2021, and that EGU begins 19th April 2021. 
+
+
+Action Items
+
+1.	SMILE_GBAS_AI_01_01: Group to test SMILE DFF by end of February, comments to JAC
+COMPLETED
+2.	SMILE_GBAS_AI_01_02: JAC to amend GBAS mission statement in future WG updates
+COMPLETED
+3.	SMILE_GBAS_AI_01_03: JAC to add Robin Barnes as the SuperMAG contact for the group
+COMPLETED
+4.	SMILE_GBAS_AI_01_04: MD to circulate E3D highlight topic proposal when completed
+5.	SMILE_GBAS_AI_01_05: JM to clarify coordinate tags planned for UVI data  
+6.	SMILE_GBAS_AI_01_06: MTW to send NAM session invite to WG
+COMPLETED
+
