@@ -1,7 +1,7 @@
 ---
 #layout: post
 title:  "Agenda for GBAS Working Group meeting January 2021"
-date:   2020-01-06 13:55:00
+date:   2021-01-06 13:55:00
 author: SMILE GBAS WG
 categories: news
 layout: post
